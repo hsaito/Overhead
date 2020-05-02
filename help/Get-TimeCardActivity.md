@@ -5,7 +5,7 @@ online version:
 schema: 2.0.0
 ---
 
-# Get-TimeCardActivityData
+# Get-TimeCardActivity
 
 ## SYNOPSIS
 Process timecard data from the imported record information.
